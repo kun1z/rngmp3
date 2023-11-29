@@ -22,3 +22,7 @@ Written to use Python 3.
 This requires FFMPEG binaries to be installed on your computer AND the PATH variable is set to the bin directory. If you do not know how to change your PATH environment variable then edit line #63 in the Python script to include the full path to the 'ffmpeg' binary file.
 
 https://ffmpeg.org/download.html
+
+#c_src
+
+The original utility was written in C and that can be found in the c_src folder. It isn't needed however and was added for reference only.
